@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Currency</string>
+    <string name="ntd">新台幣</string>
+    <string name="go">計算</string>
+    <string name="problem">錯誤</string>
+    <string name="please">請輸入新台幣金額</string>
+    <string name="result">結果</string>
+    <string name="usd_is">"美金的金額是 "</string>
+    <string name="ok">完成</string>
+</resources>
